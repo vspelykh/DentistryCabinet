@@ -1,4 +1,4 @@
-package com.example.dentistrycabinet;
+package ua.vspelykh.dentistrycabinet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

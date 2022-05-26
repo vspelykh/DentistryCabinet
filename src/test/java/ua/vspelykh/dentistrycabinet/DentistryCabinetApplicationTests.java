@@ -1,4 +1,4 @@
-package com.example.dentistrycabinet;
+package ua.vspelykh.dentistrycabinet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
